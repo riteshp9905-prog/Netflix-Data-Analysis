@@ -1,0 +1,36 @@
+NETFLIX DATA ANALYSIS REPORT
+=============================================
+
+Total Titles : 8807
+Movies : 6131
+TV Shows : 2676
+Countries : 127
+Genres : 42
+
+Top 10 Countries
+country
+United States     3689
+India             1046
+United Kingdom     804
+Canada             445
+France             393
+Japan              318
+Spain              232
+South Korea        231
+Germany            226
+Mexico             169
+Name: count, dtype: int64
+
+Top 10 Genres
+listed_in
+International Movies        2752
+Dramas                      2427
+Comedies                    1674
+International TV Shows      1351
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    763
+Independent Movies           756
+Children & Family Movies     641
+Romantic Movies              616
+Name: count, dtype: int64
